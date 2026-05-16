@@ -52,7 +52,7 @@ def extract_keywords(text):
 
 if __name__ == "__main__":
 
-    resume_path = "resumes/Satvik Sharma-Resume.pdf"
+    resume_path = "resumes/MAHAK LODHI resume.pdf"
 
 
     text = extract_text_from_pdf(resume_path)
